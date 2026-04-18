@@ -1,8 +1,11 @@
 # Maritime Small Object Detection using YOLOv8
 
 notebooks/: Colab notebook containing the full pipeline
+
 models/: Custom model architecture for the YOLOv8 + CBAM 
+
 results/: Sample outputs for qualitative comparison across methods
+
 weights/: Link to pretrained model weights (not including SAHI)
 
 
