@@ -6,12 +6,12 @@
 
 ### results/: Sample outputs for qualitative comparison across methods
 
-### weights/: Link to pretrained model weights (not including SAHI)
-
-
-
-
-
+### weights/: Link to pretrained model weights (not including SAHI)  
+  
+  
+  
+  
+  
 
 
 
